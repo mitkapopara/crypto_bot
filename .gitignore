@@ -1,0 +1,11 @@
+# Virtual Environment
+trading_bot_env/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Other common ignores
+.DS_Store
+.env
